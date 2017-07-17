@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/gapi",
+        "scope": "@types",
+        "escapedName": "@types%2fgapi",
+        "name": "@types/gapi",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\MEAN_Apps\\AnBluesApps\\Software-Development\\GoogleReportingSampleModule"
+    ]
+  ],
+  "_from": "@types/gapi@latest",
+  "_id": "@types/gapi@0.0.33",
+  "_inCache": true,
+  "_location": "/@types/gapi",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gapi-0.0.33.tgz_1496758765926_0.11886609462089837"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/gapi",
+    "scope": "@types",
+    "escapedName": "@types%2fgapi",
+    "name": "@types/gapi",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/@types/gapi.auth2",
+    "/ng-gapi"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/gapi/-/gapi-0.0.33.tgz",
+  "_shasum": "4a485c873dc5bfc9829699fd094e144df9e74544",
+  "_shrinkwrap": null,
+  "_spec": "@types/gapi",
+  "_where": "E:\\MEAN_Apps\\AnBluesApps\\Software-Development\\GoogleReportingSampleModule",
+  "contributors": [
+    {
+      "name": "Frank M",
+      "url": "https://github.com/sgtfrankieboy"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for Google API Client",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-XS1ZEfJ2y8Q2mbjpbiKbKu4cbBA0gphZPMWGmK3SLiIcahiG7b3FvdVuwP19G65ikj6sUisZWKzfP4KNW4isEA==",
+    "shasum": "4a485c873dc5bfc9829699fd094e144df9e74544",
+    "tarball": "https://registry.npmjs.org/@types/gapi/-/gapi-0.0.33.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/gapi",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "# Installation\r\n> `npm install --save @types/gapi`\r\n\r\n# Summary\r\nThis package contains type definitions for Google API Client (https://code.google.com/p/google-api-javascript-client/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gapi\r\n\r\nAdditional Details\r\n * Last updated: Tue, 06 Jun 2017 14:18:37 GMT\r\n * Dependencies: none\r\n * Global values: gapi\r\n\r\n# Credits\r\nThese definitions were written by Frank M <https://github.com/sgtfrankieboy>.\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "typesPublisherContentHash": "f109a005cf33a21e5e586ae689cd8dece9a060c3ad6b680f6a9473a4001503b9",
+  "version": "0.0.33"
+}
